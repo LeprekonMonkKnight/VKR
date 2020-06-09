@@ -1,0 +1,83 @@
+.CardMask {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.MaskImg {
+  max-width: 540px;
+  margin: 50px auto;
+  padding: 40px 0;
+}
+
+    .MaskImg #fillMask {
+      fill: rgb(225, 225, 225);
+    }
+
+    .MaskImg #GREEN_fillMask {
+      fill: rgb(62, 238, 91);
+    }
+
+    .MaskImg #ORANGE_fillMask {
+      fill: rgb(238, 156, 62);
+    }
+
+    .MaskImg #RED_fillMask {
+      fill: rgb(238, 62, 62);
+    }
+
+    .MaskImg #BLACK_fillMask {
+      fill: rgb(0, 0, 9);
+    }
+
+    .MaskImg #VILET_fillMask {
+      fill: rgb(129, 62, 238);
+    }
+
+    .MaskImg #BLUE_fillMask {
+      fill: rgb(79, 115, 235);
+    }
+
+.ChangeColorBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+  .Btn {
+    margin: 10px;
+    padding: 5px;
+    height: 5px;
+    border: 3px solid rgb(225, 225, 225);
+  }
+
+    .Green {
+      background-color: rgb(62, 238, 91);
+    }
+
+    .Orange {
+      background-color: rgb(238, 156, 62);
+    }
+
+    .Red {
+      background-color: rgb(238, 62, 62);
+    }
+
+    .Black {
+      background-color: rgb(0, 0, 9);
+    }
+
+    .Vilet {
+      background-color: rgb(129, 62, 238);
+    }
+
+    .Blue {
+      background-color: rgb(79, 115, 235);
+    }
+
+.BtnBuy {
+  margin: 0px;
+  padding: 30px;
+}

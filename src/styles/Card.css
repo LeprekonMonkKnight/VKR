@@ -1,0 +1,23 @@
+.img-card {
+  width: 50%;
+  max-width: 540px;
+  margin: 20px auto;
+  padding: 10px 0;
+}
+
+.maskImg {
+  padding: 50px 0;
+}
+
+.Card {
+  text-align: center;
+  padding: 10px 0;
+  min-height: 250px;
+}
+
+.nameCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 10px;
+}
